@@ -5,4 +5,5 @@ In this project you'll find some basic techniques to select html elements in js 
 Document Object Model Methods used:
 
 * document.getElementById();
-* Element.getElementsByTagName();
+* document.getElementsByTagName();
+* document.getElementsByClassName();
